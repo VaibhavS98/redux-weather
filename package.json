@@ -1,7 +1,7 @@
 {
   "name": "redux-react",
   "version": "1.0.0",
-  "description": "",
+  "description": "Find weather in Indian Cities easily",
   "main": "index.js",
   "scripts": {
     "start": "npm run build",
